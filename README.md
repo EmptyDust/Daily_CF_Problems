@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF768B](https://codeforces.com/problemset/problem/768/B) | As $r-l$ is not large, we can find out the answer of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf768b.md) |
-| 2100 | [CF1176F](https://codeforces.com/problemset/problem/1176/F) | Consider the basic DP. Do we really need to consider all the possible status in the previous round? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf1176f.md) |
+| ---------- | -------- | ----- | -------- |
+| 1800 | [CF142B](https://codeforces.com/problemset/problem/142/B) | If you can make pairs between positions, it's easy to decide / prove the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf142b.md) |
+| 1900 | [CF228E](https://codeforces.com/problemset/problem/228/E) | It is useless to apply operation on a single city more than twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf228e.md) |
