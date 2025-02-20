@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF142B](https://codeforces.com/problemset/problem/142/B) | If you can make pairs between positions, it's easy to decide / prove the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf142b.md) |
-| 1900 | [CF228E](https://codeforces.com/problemset/problem/228/E) | It is useless to apply operation on a single city more than twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf228e.md) |
+| 1700 | [CF1227C](https://codeforces.com/problemset/problem/1227/C) | Use two operations to swap two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf1227c.md) |
+| 2000 | [CF263C](https://codeforces.com/problemset/problem/263/C) | What is the property of the two neighboring vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf263c.md) |
