@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1227C](https://codeforces.com/problemset/problem/1227/C) | Use two operations to swap two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf1227c.md) |
-| 2000 | [CF263C](https://codeforces.com/problemset/problem/263/C) | What is the property of the two neighboring vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf263c.md) |
+| 1700 | [CF766C](https://codeforces.com/problemset/problem/766/C) | Just $3$ DP-s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf766c.md) |
+| 2000 | [CF1090K](https://codeforces.com/problemset/problem/1090/K) | Focus on the infinite part. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf1090k.md) |
